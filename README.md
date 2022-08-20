@@ -16,3 +16,5 @@ The team profile generator is a webpage that uses back end node commands. Users 
 # Preview 📷
 ![image](https://user-images.githubusercontent.com/100745702/185755236-8e36d688-6e35-40f3-9a7a-70060887871d.png)
 
+# Installation and Test
+To install, open the terminal of the folder. Then  run npm init -y and npm install inquier. Then simply type node index.js and follow the prompts in the terminal. To test, type npm install --save-dev jest && npm test within the terminal.
