@@ -14,4 +14,5 @@ The team profile generator is a webpage that uses back end node commands. Users 
 
 
 # Preview 📷
-![readme-preview] 
+![image](https://user-images.githubusercontent.com/100745702/185755236-8e36d688-6e35-40f3-9a7a-70060887871d.png)
+
