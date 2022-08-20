@@ -1,4 +1,4 @@
-# -team-profile-generator
+# Team-Profile-Generator
 The team profile generator is a webpage that uses back end node commands. Users can answer questions and build a team profile.
 
 # About📃
