@@ -1,4 +1,4 @@
-const Intern = require('../lib/Intern');
+const Intern = require('../library/Intern');
 
 test('Can get school from getSchool method on intern object', () => {
     const school = 'ASU';

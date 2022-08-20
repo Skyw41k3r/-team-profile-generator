@@ -1,4 +1,4 @@
-const Engineer = require('../lib/Engineer');
+const Engineer = require('../library/Engineer');
 
 test('Can get github username with getGithub method on engineer object', () => {
     const github = 'Octocat';
